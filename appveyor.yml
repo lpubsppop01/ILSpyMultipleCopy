@@ -1,0 +1,4 @@
+version: 0.0.{build}
+image: Visual Studio 2019
+artifacts:
+  - path: ILSpyMultipleCopy\bin\Release\Lpubsppop01.ILSpyMultipleCopy.Plugin.dll
