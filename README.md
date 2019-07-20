@@ -1,5 +1,7 @@
 # Multiple Copy Plugin for ILSpy
 
+[![Build status](https://ci.appveyor.com/api/projects/status/ys3eq1hg202woqpa?svg=true)](https://ci.appveyor.com/project/lpubsppop01/ilspymultiplecopy)
+
 A plugin for ILSpy that add "Copy text" menu item to context menu in tree view.
 
 ## Features
@@ -11,7 +13,8 @@ This is a simple plug-in, but it is useful when pasting the contents of a tree v
 
 ## Download
 
-TODO
+Latest Build:
+- [Lpubsppop01.ILSpyMultipleCopy.Plugin.dll](https://ci.appveyor.com/api/projects/lpubsppop01/ilspymultiplecopy/artifacts/ILSpyMultipleCopy/bin/Release/Lpubsppop01.ILSpyMultipleCopy.Plugin.dll)
 
 ## Requirements
 
